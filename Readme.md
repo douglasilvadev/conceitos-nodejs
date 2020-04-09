@@ -10,6 +10,10 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglassp/conceitos-nodejs?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+  </a>
+
+  <a href="https://rocketseat.com.br">
     <img alt="Altered by Douglas Silva" src="https://img.shields.io/badge/altered%20by-Douglas_Silva-%2304D361">
   </a>
 
@@ -23,6 +27,7 @@
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+  <a href="#medal-créditos">Créditos</a>
 </p>
 
 
@@ -43,5 +48,6 @@ O template utilizado está disponível na seguinte url: **[Acessar Template](htt
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
+## :medal: Créditos
 
-Feito com 💜 by Rocketseat e alterado by Douglas Silva 💪 :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com 💜 by Rocketseat & alterado by Douglas Silva 💪 [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
