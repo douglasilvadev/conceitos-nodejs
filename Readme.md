@@ -37,6 +37,9 @@ Aplicação feita para treinar a parte conceitual do primeiro módulo de Node.js
 
 Desenvolvido para armazenar repositórios de portfólio onde é permitido a criação, listagem, atualização e remoção dos repositórios além de permitir que os repositórios possam receber "likes".
 
+<p align="center">
+  <img  src="./assets/nodejs-tdd.png">
+</p>
 
 ### Template da aplicação
 
