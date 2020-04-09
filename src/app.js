@@ -45,18 +45,18 @@ app.put('/repositories/:id', (req, res) => {
   const { id } = req.params;
   const { title, url, techs } = req.body;
 
-  const alteredRepository = repositories.find(repository => repository.id === id);
+  const alteredRepository = repositories.findIndex(repository => repository.id === id);
 
-  if (!alteredRepository) {
+  if (alteredRepository === -1) {
     return res.status(400).json({ error: 'Repository not found' });
   }
 
   const repository = {
-    id: uuid(),
+    id,
     title,
     url,
     techs,
-    likes: 0,
+    likes: repositories[alteredRepository].likes,
   };
 
   repositories[alteredRepository] = repository;
