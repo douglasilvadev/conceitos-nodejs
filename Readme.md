@@ -13,7 +13,7 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
   </a>
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://www.linkedin.com/in/douglasilva/">
     <img alt="Altered by Douglas Silva" src="https://img.shields.io/badge/altered%20by-Douglas_Silva-%2304D361">
   </a>
 
