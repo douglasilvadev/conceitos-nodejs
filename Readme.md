@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#medal-créditos">Créditos</a>
 </p>
 
@@ -48,6 +48,6 @@ O template utilizado está disponível na seguinte url: **[Acessar Template](htt
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-## :medal: Créditos
+## :trophy: Créditos
 
 Feito com 💜 by Rocketseat & alterado by Douglas Silva 💪 [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
