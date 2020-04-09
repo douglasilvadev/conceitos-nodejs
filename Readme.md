@@ -42,6 +42,9 @@ Desenvolvido para armazenar repositórios de portfólio onde é permitido a cria
 
 O template utilizado está disponível na seguinte url: **[Acessar Template](https://github.com/Rocketseat/gostack-template-conceitos-nodejs)**
 
+<p align="center">
+  <img  src="./assets/nodejs-example.png">
+</p>
 
 ## :memo: Licença
 
