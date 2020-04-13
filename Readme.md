@@ -51,9 +51,9 @@ O template utilizado está disponível na seguinte url: **[Acessar Template](htt
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](License.md) para mais detalhes.
 
 ---
 ## :trophy: Créditos
 
-Feito com 💜 by Rocketseat & alterado by Douglas Silva 💪 [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com 💜 by Rocketseat & alterado by Douglas Silva 💪 [Rocketseat at Discord](https://discordapp.com/invite/gCRAFhc)
